@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-Virtually Connecting seeks to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible, to create safe, professional spaces for people to collaborate and learn from each other. As such, we are committed to maintaining a high standard of professional behavior in all our activities and events, and to providing a friendly, safe, and welcoming environment for all, regardless of personal characteristics like gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, national origin, age, socioeconomic status, religion (or lack thereof), or work experience.
+Virtually Connecting seeks to practice "radical hospitality" and be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible, to create safe, professional spaces for people to collaborate and learn from each other. As such, we are committed to maintaining a high standard of professional behavior in all our activities and events, and to providing a friendly, safe, and welcoming environment for all, regardless of personal characteristics like gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, national origin, age, socioeconomic status, religion (or lack thereof), or work experience.
 
 We do not tolerate harassment of people in our community in any form. Sexual or violent language and imagery is not appropriate in our community, activities, or events. People violating our Code of Conduct may be warned or expelled from our community, activities, or events at the discretion of community organizers.
 
@@ -12,7 +12,7 @@ This Code of Conduct outlines our expectations for all those who participate in 
 
 The following behaviors are expected and requested of all community members and participants:
 
-*   Participate in an authentic and active way, practicing "radical hospitality".
+*   Participate in an authentic and active way.
 *   Exercise consideration and respect in your speech and actions.
 *   Attempt collaboration before conflict.
 *   Refrain from demeaning, discriminatory, or harassing behavior and speech.
@@ -87,4 +87,4 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 Following the licenses of works from which this Code of Conduct was adapted, it is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Portions of this Code of Conduct were inspired by and/or adapted directly from the [Joint Roadmap for Open Science Tool's Code of Conduct](https://github.com/OpenScienceRoadmap/jrost/blob/master/CODE_OF_CONDUCT.md), the [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/), the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the [eLife 2018 Sprint Code of Conduct](https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018?utm_source=sprint-IE&utm_medium=website&utm_campaign=sprint-2018), and the [OpenCon 2017 Code of Conduct](http://www.opencon2017.org/code_of_conduct).
+Portions of this Code of Conduct were inspired by and/or adapted directly from the [Joint Roadmap for Open Science Tool's Code of Conduct](https://github.com/OpenScienceRoadmap/jrost/blob/master/CODE_OF_CONDUCT.md), the [Citizen Code of Conduct](http://citizencodeofconduct.org/), the [Django Code of Conduct](https://www.djangoproject.com/conduct/), the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the [eLife 2018 Sprint Code of Conduct](https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018?utm_source=sprint-IE&utm_medium=website&utm_campaign=sprint-2018), and the [OpenCon 2017 Code of Conduct](http://www.opencon2017.org/code_of_conduct).
