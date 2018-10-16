@@ -19,4 +19,4 @@ During Mozilla Open Leaders Round 6 (Sep–Dec 2018), we are focused on three pr
 1. Creating a place and sustainable maintenance process for a set of standard documentation and templates for Virtually Connecting. Tagged as #VCDocumentation and/or #VCTemplates
 1. Collecting a current list of Virtually Connecting members and their roles/abilities. Tagged as #VCMembership
 
-Visit our [CONTRIBUTING page](CONTRIBUTING.md) to learn how you can join our work.
+Visit our [CONTRIBUTING page](CONTRIBUTING.md) to learn how you can contribute to the first project listed above.
