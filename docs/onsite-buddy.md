@@ -1,3 +1,4 @@
+# Onsite Buddy
 Onsite buddies act as the on-the-ground coordinators for sessions at an event, making sure location and equipment are available, guests attend, and running the hangout at the event during the session.
 * Think hard about how many sessions you’re willing to commit to. No more than 1 or 2 sessions per day is a good goal.
 * It can be exhausting physically! If you can find or negotiate one location (preferably a room) that is best. If you are lugging all of your equipment from room to room - especially if it is a large convention center or something - well you'd better be in good shape. Don't forget to eat and stay hydrated too.
