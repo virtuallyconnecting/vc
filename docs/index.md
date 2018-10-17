@@ -9,3 +9,5 @@ Volunteers act in specific roles to make Virtually Connecting (VC) happen. Explo
 * Event Lead
 * [Onsite Buddy](onsite-buddy.md)
 * Virtual Buddy
+* Onsite Guest
+* Virtual Guest
