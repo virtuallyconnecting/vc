@@ -6,6 +6,15 @@ We are developing pathways to help us think better about how we can support peop
 
 What initial, untested pathway does a persona take? How could we improve pathways to make participation and contribution easier?
 
+When we think about pathways, we can think both about the ideal path someone might take, and the barriers they might/do encounter and how we can work to remove those barriers. We imagine pathways that lead people to deeper engagement:
+1. Discovery 
+1. First Contact 
+1. Participation 
+1. Sustained Participation 
+1. Networked Participation
+1. Leadership 
+
+
 ## Pathways
 * Co-Directors
 * Advisory Buddies
