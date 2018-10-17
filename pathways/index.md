@@ -1,6 +1,6 @@
 # Virtually Connecting Pathways
 
-A pathway is a journey that VC participants (represented by [VC personas](../personas/everyone.md)) take in engaging with our community, from first contact to deeper contribution.
+A pathway is a journey that VC participants (represented by [VC personas](../personas/index.md)) take in engaging with our community, from first contact to deeper contribution.
 
 We are developing pathways to help us think better about how we can support people who participate in Virtually Connecting.
 
