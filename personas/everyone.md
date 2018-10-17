@@ -1,6 +1,10 @@
 # Virtually Connecting Personas
 
+A persona a description of an imaginary person, based on real-world observations and understandings of potential or current users.
+
 We are developing personas to help us think better about how we can support people who participate in Virtually Connecting.
+
+Who are the people we most need in our community? And who is missing? 
 
 ## Personas
 * Co-Directors
