@@ -23,8 +23,8 @@ When we think about pathways, we can think both about the ideal path someone mig
 * Onsite Buddies
 * Virtual Buddies
 * Onsite Guests
-  * Invited guest (eg, an event speaker who is invited in advance to be a guest at a VC session).
-  * Bonus participant (eg, someone who joins a VC session because they hear about it from another guest or VC volunteer).
+  * [Invited onsite guest](invited-guest-onsite.md) (eg, an event speaker who is invited in advance to be a guest at a VC session).
+  * Bonus onsite participant (eg, someone who joins a VC session because they hear about it from another guest or VC volunteer).
 * Virtual Guests
   * Signed up in advance (eg, someone who learned about a VC session in advance and signed up to join).
   * Joined at the last minute (eg, someone who heard there was a VC session just before or while it was happening).
