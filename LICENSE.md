@@ -1,4 +1,8 @@
-Unless otherwise specified, Virtually Connecting licenses material in this repository under its default open license, Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Note that Virtually Connecting publishes recordings of events and sessions in YouTube and other places under a more restrictive Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by/4.0/)) license in order to ensure that recordings are not taken out of context. You can, however, [contact us](mailto:info@virtuallyconnecting.org) to ask for specific permission to edit or remix a Virtually Connecting recording.
+Unless otherwise specified, Virtually Connecting licenses material in this repository under its default open license, Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). 
+
+Note that Virtually Connecting publishes recordings of events and sessions in YouTube and other places under a more restrictive Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by/4.0/)) license in order to ensure that recordings are not taken out of context. You can, however, [contact us](mailto:info@virtuallyconnecting.org) to ask for specific permission to edit or remix a Virtually Connecting recording.
+
+All rights are reserved for the Virtually Connecting name, wordmark, logo and other graphics (where not in conflict with other licenses). Participants in Virtually Connecting events may use these elements for purposes of publicizing the events or organization. Partners (such as conference organizations) should contact us before using the Virtually Connecting wordmark, logo, or other graphics in promotional material.
 
 Attribution 4.0 International
 
