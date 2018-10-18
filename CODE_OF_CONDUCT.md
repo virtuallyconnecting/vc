@@ -50,7 +50,7 @@ If anyone engages in harassing or disruptive behavior, community organizers reta
 
 If someone makes you or anyone else feel unsafe or unwelcome, or you have any other concerns, please make a report as soon as possible. Harassment and other Code of Conduct violations reduce the value of our activities and events for everyone.
 
-To the best of our abilities and recognizing our virtual and volunteer status, community organizers are available to help community members and participants engage with support services and law enforcement as necessary, and in in-person contexts, to provide escorts or otherwise help people experiencing unacceptable behavior to feel safe.
+To the best of our abilities and recognizing our virtual and volunteer status, community organizers are available to help community members and participants engage with support services and law enforcement as necessary, and to help people experiencing unacceptable behavior to feel safe.
 
 You can make reports either personally or anonymously. All reports will be handled with discretion.
 
