@@ -1,5 +1,7 @@
 # Code of Conduct
 
+As of 17 Oct 2018, the wider Virtually Connecting community is considering this code of conduct for adoption in all our activities, but in the meantime, it is in place for our activities within the Mozilla Open Leaders program. Please follow it in all your interactions with our community.
+
 ## 1. Purpose
 
 Virtually Connecting seeks to practice "radical hospitality" and be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible, to create safe, professional spaces for people to collaborate and learn from each other. As such, we are committed to maintaining a high standard of professional behavior in all our activities and events, and to providing a friendly, safe, and welcoming environment for all, regardless of personal characteristics like gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, national origin, age, socioeconomic status, religion (or lack thereof), or work experience.
@@ -54,7 +56,7 @@ You can make reports either personally or anonymously. All reports will be handl
 
 ### Anonymous Reports
 
-File an anonymous report (link needed) at any time. We can't follow up on anonymous reports with you directly, but we will fully investigate them and take whatever action is necessary to prevent recurrences.
+File an [anonymous report](https://docs.google.com/forms/d/e/1FAIpQLSdIVfMgEUgjSKePxtRchhL09pj_W0npghZ_yaVLD906AZqysg/viewform?usp=sf_link) at any time. We can't follow up on anonymous reports with you directly, but we will fully investigate them and take whatever action is necessary to prevent recurrences.
 
 ### Personal Reports
 
@@ -65,7 +67,8 @@ If a member of the Conduct Team is involved in the incident you are reporting, o
 When taking a personal report, Conduct Team members will ensure you are safe and cannot be overheard. With your permission, they may involve other community members to ensure your report is handled properly. Once safe, they'll ask you to describe what happened. This can be upsetting, but they'll handle it respectfully, and you can bring someone to support you. You won't be asked to confront anyone, you will not be left alone, and all reports will be handled with discretion.
 
 ### Conduct Team
-* TBD
+* Nate Angell <[nate@xolotl.org](mailto:nate@xolotl.org)>, [@xolotl](https://twitter.com/xolotl) (DMs open)
+* more to join...
 
 In your report, please do your best to include:
 * Your contact information
