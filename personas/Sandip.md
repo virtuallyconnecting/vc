@@ -1,4 +1,4 @@
-![Sandip](/images/sandip.jpg)
+![Sandip](/personas/adult-business-businessman-374820.jpg)
 # Sandip
 
 Sandip is a studying postgraduate studies in Educational Technology.
