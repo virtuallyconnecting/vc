@@ -2,6 +2,7 @@
 
 1. Add definitions here...
 > By not asking "Where are you from"! submitted by @ParisaMehran
+
 > By making sure that ELF (english as a Lingua Franca) is used so everyone can follow the conversation. submitted by @ParisaMehran
 1. From [Radical Hospitality](https://www.uua.org/worship/words/sermon/radical-hospitality) by Marilyn Sewell: 
 
