@@ -8,7 +8,7 @@ Using emerging technologies, we connect onsite conference presenters and attende
 ## VC and Mozilla Open Leaders
 
 ### Our Vision
-The Mozilla Open Leaders Round 6 team of [Helen DeWaard](https://github.com/hj-dewaard), [Nate Angell](https://github.com/xolotl), [Rebecca Hogue](https://github.com/rhogue), and [Wendy Taleo](https://github.com/wentale) are examining existing Virtually Connecting community, practices and tools to capture, maintain and create ways that support our existing and growing community. We want to better understand the characteristics, interactions, sequences, and hospitalities that support others in global campfire conversation spaces.
+The [Mozilla Open Leaders Round 6 team](https://github.com/MozillaFestival/open-leaders-6/issues/6) of [Helen DeWaard](https://github.com/hj-dewaard), [Nate Angell](https://github.com/xolotl), [Rebecca Hogue](https://github.com/rhogue), and [Wendy Taleo](https://github.com/wentale) are examining existing Virtually Connecting community, practices and tools to capture, maintain and create ways that support our existing and growing community. We want to better understand the characteristics, interactions, sequences, and hospitalities that support others in global campfire conversation spaces.
 
 We work openly because we want to welcome the voices of anyone interested in participating in the community and maintain the Virtually Connecting open ethos. We are [#WOLO](https://twitter.com/search?q=%23wolo) supporters.
 
